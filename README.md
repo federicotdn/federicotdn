@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**federicotdn/federicotdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my projects:
 
-Here are some ideas to get you started:
+#### Go
+- [kubectl-portal](https://github.com/federicotdn/kubectl-portal) 🚪
+- [Pimacs](https://github.com/federicotdn/pimacs) 🖋️
+- [brief](https://github.com/federicotdn/brief) ⌨️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Emacs Lisp
+- [Verb](https://github.com/federicotdn/verb) 🌐
+- [key-quiz](https://github.com/federicotdn/key-quiz) ❔
+- [midday](https://github.com/federicotdn/midday) ☀️
+
+#### Python
+- [wikiquote](https://github.com/federicotdn/wikiquote) 💬
+
+#### Arduino C++:
+- [taurus](https://github.com/federicotdn/taurus) ♉
