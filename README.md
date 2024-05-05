@@ -9,7 +9,7 @@ Some of my projects:
 [Verb](https://github.com/federicotdn/verb) 🌐, [key-quiz](https://github.com/federicotdn/key-quiz) ❔, [midday](https://github.com/federicotdn/midday) ☀️
 
 #### Python
-[wikiquote](https://github.com/federicotdn/wikiquote) 💬
+[wikiquote](https://github.com/federicotdn/wikiquote) 💬, [aiorsmq](https://github.com/federicotdn/aiorsmq) 📘
 
 #### Arduino C++:
 [taurus](https://github.com/federicotdn/taurus) ♉
