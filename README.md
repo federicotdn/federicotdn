@@ -15,4 +15,4 @@ Some of my projects:
 [taurus](https://github.com/federicotdn/taurus) ♉
 
 ### Misc.
-[jscontact-json-schema](https://github.com/federicotdn/jscontact-json-schema) 📑
+[jscontact-json-schema](https://github.com/federicotdn/jscontact-json-schema) 🆔
