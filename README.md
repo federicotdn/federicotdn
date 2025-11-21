@@ -9,6 +9,7 @@ Here are some of my GitHub projects:
 - [key-quiz](https://github.com/federicotdn/key-quiz) ❔
 - [midday](https://github.com/federicotdn/midday) ☀️
 - [emacs.d](https://github.com/federicotdn/emacs.d) 💯
+- [templ-mode](https://github.com/federicotdn/templ-mode) *️⃣
 
 #### Python
 - [wikiquote](https://github.com/federicotdn/wikiquote) 💬
