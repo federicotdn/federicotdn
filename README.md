@@ -15,5 +15,5 @@ Here are some of my GitHub projects:
 - [wikiquote](https://github.com/federicotdn/wikiquote) 💬
 - [aiorsmq](https://github.com/federicotdn/aiorsmq) 📘
 
-#### Arduino C++:
+#### Arduino C++
 - [taurus](https://github.com/federicotdn/taurus) ♉
