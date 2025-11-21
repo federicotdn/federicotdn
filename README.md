@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Some of my projects:
+Here are some of my GitHub projects:
 
 #### Go
 - [Pimacs](https://github.com/federicotdn/pimacs) 🖋️
