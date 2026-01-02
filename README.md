@@ -4,6 +4,9 @@ Here are some of my GitHub projects:
 - [Pimacs](https://github.com/federicotdn/pimacs) 🖋️
 - [brief](https://github.com/federicotdn/brief) ⌨️
 
+#### Haskell
+- [gitignore-ospath](gitignore-ospath) 🗂️
+
 #### Emacs Lisp
 - [Verb](https://github.com/federicotdn/verb) 🌐
 - [key-quiz](https://github.com/federicotdn/key-quiz) ❔
