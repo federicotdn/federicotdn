@@ -5,6 +5,7 @@ Here are some of my GitHub projects:
 - [brief](https://github.com/federicotdn/brief) ⌨️
 
 #### Haskell
+- [irk](https://github.com/federicotdn/irk) 💠
 - [gitignore-ospath](https://github.com/federicotdn/gitignore-ospath) 🗂️
 
 #### Emacs Lisp
