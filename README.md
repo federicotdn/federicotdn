@@ -13,7 +13,6 @@ Here are some of my GitHub projects:
 - [Verb](https://github.com/federicotdn/verb) 🌐
 - [key-quiz](https://github.com/federicotdn/key-quiz) ❔
 - [midday](https://github.com/federicotdn/midday) ☀️
-- [emacs.d](https://github.com/federicotdn/emacs.d) 💯
 - [templ-mode](https://github.com/federicotdn/templ-mode) *️⃣
 
 #### Python
